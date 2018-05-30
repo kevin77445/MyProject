@@ -1,3 +1,4 @@
 # MyProject
 first
+\n
 hahaha
